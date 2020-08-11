@@ -19,3 +19,6 @@ g++ kruskal_avl.cpp
 ```
 ## Output:
 ![output_img](https://github.com/manikgupta11/van-Emde-Boas-Tree-Implementation/blob/master/mst-output.png)
+
+## Time complexity comparison between vEB and AVL tree:
+![TC](https://github.com/manikgupta11/van-Emde-Boas-Tree-Implementation/blob/master/graph.jpg)
